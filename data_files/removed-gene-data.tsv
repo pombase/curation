@@ -1,0 +1,87 @@
+Gene	Comment	Reference	Date
+SPBC19G7.12c	removed because sequence similarity supports SPBC19G7.11c		2004-09-14
+SPAC212.10	removed as part of UTR of SPAC212.11		
+SPAC3F10.14	reverse strand of SPAC3F10.15c		
+SPBC428.09c	presumed non-coding as no methionine or consensus splice sites		
+SPAC222.17c	presumed non-coding; was a very small ORF in ncRNA prl50		
+SPNCRNA.135	Initially annotated as a non-coding RNA but subsequently determined to be the 5' UTR of SPBC16D10.06	pers. comm S. Whitehall	
+SPBPB21E7.10	partial ORF of 35 aa, no reason to believe this is coding		
+SPAC4G8.15c	dubious; unsupported by Solexa transcript data		
+SPAPB18E9.03c	dubious; unsupported by Solexa transcript data		
+SPBC18H10.21c	alias SPBC9B6.01c; dubious; unsupported by Solexa transcript data		
+SPBC9B6.01c	alias of SPBC18H10.21c; dubious; unsupported by Solexa transcript data		
+SPCC2H8.03	dubious; unsupported by Solexa transcript data		
+SPAC22E12.12	dubious; unsupported by Solexa transcript data		
+SPNCRNA.85	replaced by protein coding gene SPAC227.19c		
+SPNCRNA.48	replaced by protein coding gene SPAC2F3.18		
+SPNCRNA.97	replaced by short protein coding gene SPAC27E2.14		
+SPAC8E11.09c	previously annotated as dubious but no evidence for splicing, and non-canonical splice sites; unsupported by Solexa transcript data		
+SPAC22E12.15	previously annotated as dubious but dubious splice prediction; unsupported by Solexa transcript data		
+SPAC1002.21	was annotated as dubious but based on position in uracil regulatable operon, as this CDS does not appear to be transcribed. t is possible that the localization data is an artifact of the combination of overexpression and hydrophobicity. The protein sequence is also a strange composition, and there is no ortholog in octosporus or japonicus genomes. On balance, taking into account all of the available features and contextual information, it is unlikely that this feature codes for a bona fide protein.		
+SPAC8C9.20	non consensus branch sites, and no coverage with transcriptome data		
+SPAC22E12.12	unsupported by Solexa transcript data and largely overlapping with 3' UTR of rpl24-3		
+SPCC1183.12	previously SPNCRNA.546; splice site not spotted because it was outside the coordinate range of the feature	PMID:18367542	
+SPBC16C6.14	unsupported by Solexa transcript data and largely overlapping with 3' UTR of rpl24-3		
+SPAC6F6.18c	merged with SPAC6F6.16c	PMID:18535244	
+SPBC651.07	merged with SPBC651.06	pers. comm. Charly Chahwan	
+SPNCRNA.109	part of protein coding gene merge	
+SPBC18E5.09c	merged with SPBC18E5.14c	pers. comm. Charly Chahwan	
+SPAC959.06c	merged with SPAC959.05c	pers. comm. Charly Chahwan	
+SPCC794.14c	dubious		2005-05
+SPNCRNA.523	extended exons of adjacent protein coding gene		2008-12-19
+SPBC14C8.08c	merged with SPBC14C8.09c; frameshifted	PMID:16823372	2009-02-02
+SPRRNA.25	small fragment of 25S rRNA	2009-11-26
+SPAC4G9.22	likely to be non-coding RNA, no supporting evidence for protein		2010-02-21
+SPNCRNA.509	dubious and partially overlapping with Ost5		2010-02-18
+SPBC11C11.12	cob intron fragment currently annotated as pseudogene		2010-03-09
+SPBCPT2R1.09c	no coding region		2010-09-19
+SPBPB2B2.04	no coding region		2010-09-19
+SPBPB2B2.03c	no coding region		2010-09-19
+SPAC17A2.15	was on the reverse strand of the N-terminal extension of SPAC17A2.08		2011-03-10
+SPBC1348.13	Coordinates updated; now annotated as nuclear mitochondrial pseudogene (SO:0001044)		2011-11-20
+SPNCRNA.10	merged with SPNCRNA.1234		2011-12-16
+SPNCRNA.1098	merged with SPNCRNA.07		2011-12-16
+SPNCRNA.1196	merged with SPNCRNA.67		2011-12-16
+SPNCRNA.125	merged with SPCC16A11.14		2011-12-16
+SPNCRNA.1254	merged with SPNCRNA.511		2011-12-16
+SPNCRNA.1291	merged with SPNCRNA.519		2011-12-16
+SPNCRNA.1486	merged with SPNCRNA.388		2011-12-16
+SPNCRNA.18	merged with SPNCRNA.928		2011-12-16
+SPNCRNA.489	merged with SPNCRNA.1187		2011-12-16
+SPNCRNA.502	merged with SPNCRNA.1228		2011-12-16
+SPNCRNA.582	merged with SPNCRNA.1208		2011-12-16
+SPNCRNA.64	merged with SPCC1393.13		2011-12-16
+SPNCRNA.884	merged with SPNCRNA.214		2011-12-16
+SPNCRNA.958	merged with SPAC23A1.20		2011-12-16
+SPAC1F12.03c	removed; replaced by a nuclear mitochondrial pseudogene (NUMT) feature		2012-07-16
+SPAC1F8.09c	annotated in error		2013-02-22
+SPBC713.13	deleted; ID added as synonym to SPBC713.14c	PMID:24929437	2014-07-04
+SPAC823.02	deleted; replaced by SPAC823.17 at same locus, but in different frame	PMID:24929437	2014-07-04
+SPNCRNA.252	changed to LTR		2015-01-22
+SPNCRNA.76	overlapped with correctly annotated NUMT (SPNUMT.9)		2015-10-12
+SPNCRNA.83	overlapped with correctly annotated NUMT (SPNUMT.8)		2015-10-12
+SPNCRNA.906	merged with snR30		2015-11-16
+SPNCRNA.814	merged with snR98		2015-11-16
+SPNCRNA.1436	merged with snR95		2015-11-16
+SPNCRNA.9061	merged with snR91		2015-11-16
+SPNCRNA.1038	merged with snR90		2015-11-16
+SPNCRNA.1394	merged with snR3		2015-11-16
+SPNCRNA.727	deleted; ID added as synonym to SPNCRNA.82 and SPSNORNA.10 (covers both)		2015-11-16
+SPNCRNA.723	deleted; ID added as synonym to snR41/SPSNORNA.07, snR70/SPSNORNA.08 and snR51b/SPSNORNA.09 (covers all)		2015-11-16
+SPNCRNA.866	unsupported	PMID:21511999)	2015-11-30
+SPNCRNA.867	unsupported	PMID:21511999)	2015-11-30
+SPAC1D4.07c	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPAC27E2.13	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPAC4H3.12c	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPBC1685.12c	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPBC32F12.17	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPBC354.11c	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPBC36.13	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPCC1672.14	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPCC188.05	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPCC417.04	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPCC622.05	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPCC794.16	not protein-coding	PMID:24929437, PMID:26615217	2015-12-11
+SPBC8E4.02c	SPBC8E4.02c replaced by SPNCRNA.9001 (prt2)	PMID:29414789	2018-10-11
+SPNCRNA.46	SPNCRNA.46 changed to 5' UTR of SPAC144.19 (prl46)	PMID:32594847	2020-09-08
+SPNCRNA.600	SPNCRNA.600 changed to transcript isoform of SPAC17G6.02c (tco1)	PMID:18276645	2020-09-24

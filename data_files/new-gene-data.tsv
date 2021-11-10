@@ -1,0 +1,140 @@
+Gene	Description	Reference	Date
+SPBC1709.20	RNase P and RNase MRP subunit; identified in targeted search for S. cerevisiae POP8 ortholog		June 2002
+SPAC7D4.15c	Oligosaccharyltransferase subunit (predicted)		June 2002
+SPBC119.18	conserved hypothetical protein		June 2002
+SPAC1751.04	hypothetical protein; sequence orphan		June 2002
+SPCC330.19c	hypothetical protein; sequence orphan; confirmed by EST		Sept 2002
+SPAC959.10	tRNA splicing endonuclease; similar to S. cerevisiae YMR059W		Sept 2003
+SPAC14C4.16	hypothetical protein; sequence orphan; identified in targeted search for S. cerevisiae DAD3 ortholog		Sept 2003
+SPBC6B1.12c	SAGA histone acetylase complex (predicted); involved in nuclear export (predicted); similar to S. cerevisiae YBR111W-A; identified in targeted search for S. cerevisiae SUS1 ortholog		Feb 2004
+SPBC25H2.10c	dihydropteroate synthase (predicted) (ISS); similar to S. cerevisiae YGL232W; updated from pseudogene to coding		March 2004
+SPBC56F2.14	ribosomal protein, mitochondrial L44 (predicted); similar to S. cerevisiae YMR225C; identified in targeted search for S. cerevisiae MRP144 ortholog		March 2004
+SPBC106.05c	proton-transporting ATP synthase complex, coupling factor F(o) (predicted); non-essential; similar to S. cerevisiae YDR322C-A; identified in targeted search for S. cerevisiae YDR322C-A ortholog	PMID:12618370	March 2004
+SPAC19D5.11c	similar to S. cerevisiae CTF8	 pers. comm. Stuart MacNeil	September 2004
+SPAC19D5.10c	sequence orphan		September 2004
+SPAC3A12.19	mitochondrial ribosomal protein; identified in targeted search for S. cerevisiae YBR282W ortholog		September 2004
+SPAC57A10.14	SAGA complex subunit (predicted); identified in targeted search for S. cerevisiae SGF11 ortholog		January 2005
+SPAC8C9.19	conserved protein; similar to D. hansenii DEHA0C10780g		May 2005
+SPAC8C9.20	sequence orphan		May 2005
+SPCC1223.15c	DASH complex subunit Spc19	pers. comm. Xiangwei He	May 2005
+SPBC3D6.16	sequence orphan		Added May 2005
+SPBC3B9.22c	DASH complex subunit Dad4 (predicted)	pers. comm. Xiangwei He	May 2005
+SPBC16E9.16c	sequence orphan; previously annotated as pseudogene; two peptides in mass spec analysis	pers. comm. Dieter Wolf	November 2005
+SPAC27E2.12	dubious		Added February 2006
+SPBC1347.14c	dubious		February 2006
+SPAC16C4.21	dubious		June 2006
+SPAC6B12.18	sequence orphan		July 2006
+SPAC222.17c	dubious		July 2006
+SPAC27E2.13	dubious		July 2006
+SPCC417.15	dubious		July 2006
+SPAC1250.07	dubious		July 2006
+SPAC1250.07	TFIIIC subunit Tfc7	PMID:17409385	April 2007
+SPCC1393.14	ten1; nuclear telomere cap complex subunit	pers. comm. Paul Russell	July 2007
+SPAPB1A10.16	conserved fungal protein; created from the C-term exon of SPAPB1A10.03		December 2007
+SPCC569.09	sequence orphan; longest reading frome in solexa transcript SPNG2623		December 2007
+SPNCRNA.214	telomerase RNA (predicted)		January 2008
+SPCC1183.12	previously SPNCRNA.546; splice site not spotted because it was outside the coordinate range of the feature	PMID:18367542	April 2008
+SPBC16C6.14		PMID:18367542	April 2008
+SPCC70.12c	extender of the chronological lifespan protein Ecl1	PMID:18422613	April 2008
+SPCC1442.19	Solexa prediction	PMID:18488015	May 2008
+SPAC222.17	Solexa prediction	PMID:18488015	May 2008
+SPCC569.09	Solexa prediction	PMID:18488015	May 2008
+SPAPB1E7.14	Solexa prediction	PMID:18488015	May 2008
+SPAC688.16	Solexa prediction	PMID:18488015	May 2008
+SPAP4C9.02	Solexa prediction	PMID:18488015	May 2008
+SPCC16C4.22	Solexa prediction	PMID:18488015	May 2008
+SPAC23D3.16	Solexa prediction	PMID:18488015	May 2008
+SPCC1183.12	Solexa prediction	PMID:18488015	May 2008
+SPAC25H1.10C	Solexa prediction	PMID:18488015	May 2008
+SPBC1604.25	Solexa prediction	PMID:18488015	May 2008
+SPAC23D3.17	Solexa prediction	PMID:18488015	May 2008
+SPAC4G9.22	Solexa prediction	PMID:18488015	May 2008
+SPCC757.15	Solexa prediction	PMID:18488015	May 2008
+SPAC227.19C	Solexa prediction	PMID:18488015	May 2008
+SPAC167.09	Solexa prediction	PMID:18488015	May 2008
+SPBC16C6.14	Solexa prediction	PMID:18488015	May 2008
+SPAC20G4.09	Solexa prediction	PMID:18488015	May 2008
+SPAC222.18	Solexa prediction	PMID:18488015	May 2008
+SPAC6F6.19	Solexa prediction	PMID:18488015	May 2008
+SPAC22F3.15	Solexa prediction	PMID:18488015	May 2008
+SPAC27E2.14	Solexa prediction	PMID:18488015	May 2008
+SPAC23H4.21	Solexa prediction	PMID:18488015	May 2008
+SPAC57A7.15C	Solexa prediction	PMID:18488015	May 2008
+SPAC12G12.17	Solexa prediction	PMID:18488015	May 2008
+SPBC29A10.17	Solexa prediction	PMID:18488015	May 2008
+SPAC1556.06	Solexa prediction	PMID:18488015	May 2008
+SPBC26H8.16	Solexa prediction	PMID:18488015	May 2008
+SPCC70.12C	Solexa prediction	PMID:18488015	May 2008
+SPBP35G2.16c		PMID:19352039	April 2009
+SPBC8E4.12c		PMID:19352039	April 2009
+SPCC1235.16		pers. comm. Juan Mata	April 2009
+SPCC18.19C	first 2 exons may be incorrect, homology is within 3rd exon	pers. comm. Val Wood	February 2010
+SPCC306.10	pseudo-> coding	pers. comm. Val Wood	March 2010
+SPNCRNA.497		PMID:18641648	May 2010
+SPNCRNA.498		PMID:18641648	May 2010
+SPNCRNA.499		PMID:18641648	May 2010
+SPNCRNA.507		PMID:18641648	May 2010
+SPNCRNA.510		PMID:18641648	May 2010
+SPNCRNA.514		PMID:18641648	May 2010
+SPNCRNA.515		PMID:18641648	May 2010
+SPNCRNA.523		PMID:18641648	May 2010
+SPNCRNA.530		PMID:18641648	May 2010
+SPAC222.19		PMID:21270388	Jan 2011
+SPAC17G8.15		PMID:21270388	Jan 2011
+SPAC1805.18		PMID:21270388	Jan 2011
+SPAC1486.11		PMID:21270388	Jan 2011
+SPAC3H5.13		PMID:21270388	Jan 2011
+SPAC15A10.17		PMID:21270388	Jan 2011
+SPAC4F10.22		PMID:21270388	Jan 2011
+SPAC1B3.21		PMID:21270388	Jan 2011
+SPRRNA.56		PMID:21270388	Jan 2011
+SPAC9G1.15c		PMID:21270388	Jan 2011
+SPAC13F5.08		PMID:21270388	Jan 2011
+SPAC6B12.19		PMID:21270388	Jan 2011
+SPAC3G9.17		PMID:21270388	Jan 2011
+SPAC16E8.18c		PMID:21270388	Jan 2011
+SPAC926.10		PMID:21270388	Jan 2011
+SPAC19G12.17		PMID:21270388	Jan 2011
+SPAC23A1.20		PMID:21270388	Jan 2011
+SPAC1F7.14		PMID:21270388	Jan 2011
+SPAC4D7.15		PMID:21270388	Jan 2011
+SPAC4D7.14		PMID:21270388	Jan 2011
+SPBC839.20		PMID:21270388	Jan 2011
+SPBC409.23		PMID:21270388	Jan 2011
+SPBC8D2.23		PMID:21270388	Jan 2011
+SPBC3H7.18		PMID:21270388	Jan 2011
+SPBC1711.18		PMID:21270388	Jan 2011
+SPBC24C6.13		PMID:21270388	Jan 2011
+SPBC32F12.16		PMID:21270388	Jan 2011
+SPBC30D10.21		PMID:21270388	Jan 2011
+SPBC887.22		PMID:21270388	Jan 2011
+SPBC839.19		PMID:21270388	Jan 2011
+SPBC530.16		PMID:21270388	Jan 2011
+SPBC14C8.19		PMID:21270388	Jan 2011
+SPBC17D1.17		PMID:21270388	Jan 2011
+SPBC1105.19		PMID:21270388	Jan 2011
+SPBC56F2.15		PMID:21270388	Jan 2011
+SPCP20C8.04		PMID:21270388	Jan 2011
+SPCC330.20		PMID:21270388	Jan 2011
+SPCC63.09		PMID:21270388	Jan 2011
+SPCC4B3.20		PMID:21270388	Jan 2011
+SPCC330.21		PMID:21270388	Jan 2011
+SPAC11D3.11c	pseudo to coding		Jan 2011
+SPBC713.14c	identified by ribosome profiling	PMID:24929437	July 2014
+SPAC823.17	identified by ribosome profiling	PMID:24929437	July 2014
+SPAC110.06	identified by ribosome profiling	PMID:24929437	July 2014
+SPAPB1A11.06	previously SPNCRNA.31	PMID:26494834	November 2015
+SPAC110.06		PMID:26494834	November 2015
+SPAC29A4.23		PMID:26494834	November 2015
+SPAC110.06	F1F0 ATPase synthase peripheral stalk assembly factor Ina17 (predicted)	PMID:26494834	November 2015
+SPNCRNA.1688	intergenic RNA nc-tgp1	PMID:25428589	January 2017
+SPNCRNA.1701	name prl101; synonym prl1	PMID:28031482	January 2017
+SPNCRNA.1702	name prl104; synonym prl4	PMID:28031482	January 2017
+SPNCRNA.1703	name prl105; synonym prl5	PMID:28031482	January 2017
+SPNCRNA.1704	name prl107; synonym prl7	PMID:28031482	January 2017
+SPNCRNA.1705	name prl108; synonym prl8	PMID:28031482	January 2017
+SPNCRNA.1706	name prl106; synonym prl6	PMID:28031482	January 2017
+SPNCRNA.1707	name prl102; synonym prl2	PMID:28031482	January 2017
+SPNCRNA.1708	name prl103; synonym prl3	PMID:28031482	January 2017
+SPNCRNA.1708	name rnpB	PMID:29954949	August 2018
+SPNCRNA.9001	SPBC8E4.02c replaced by SPNCRNA.9001 (prt2)	PMID:29414789	October 2018
