@@ -1,4 +1,6 @@
 Systematic ID	Standard name	Old coordinates	New coordinates	Comments	Reference	Date
+SPSNRNA.06	snu6	complement(join(2562276..2562323,2562374..2562427))	complement(join(2562276..2562323,2562374..2562419))	Jennifer Porat flagged it	PMID:2909894	2022-05-25
+SPSNRNA.04	snu4	complement(467233..467361)	complement(467489..467615)	Jennifer Porat flagged it	PMID:2795654	2022-05-25
 SPAC22F8.10c	sap145	complement(4804630..4806435)	complement(4804630..4806387)			2021-11-10
 SPAC637.09	rex1	4555399..4557294	4555423..4557294			2021-11-10
 SPAC25B8.08		4168212..4169984	4168263..4169984			2021-11-05
