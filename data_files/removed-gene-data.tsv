@@ -20,7 +20,6 @@ SPAC22E12.15	previously annotated as dubious but dubious splice prediction; unsu
 SPAC1002.21	was annotated as dubious but based on position in uracil regulatable operon, as this CDS does not appear to be transcribed. t is possible that the localization data is an artifact of the combination of overexpression and hydrophobicity. The protein sequence is also a strange composition, and there is no ortholog in octosporus or japonicus genomes. On balance, taking into account all of the available features and contextual information, it is unlikely that this feature codes for a bona fide protein.		
 SPAC8C9.20	non consensus branch sites, and no coverage with transcriptome data		
 SPAC22E12.12	unsupported by Solexa transcript data and largely overlapping with 3' UTR of rpl24-3		
-SPCC1183.12	previously SPNCRNA.546; splice site not spotted because it was outside the coordinate range of the feature	PMID:18367542	
 SPAC6F6.18c	merged with SPAC6F6.16c	PMID:18535244	
 SPBC651.07	merged with SPBC651.06	pers. comm. Charly Chahwan	
 SPNCRNA.109	part of protein coding gene merge		
