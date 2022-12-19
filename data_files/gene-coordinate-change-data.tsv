@@ -266,7 +266,7 @@ SPAC688.08		3123163..3125057, 3125099..3126310, 3126356..3126631, 3126671..31269
 SPAC823.04		2587859..2587901, 2588085..2588620	2587729..2587897, 2588085..2588620	Solexa intron data; changed first intron acceptor, which gave a different N-term exon and improved homology		2007-12-03
 SPCC622.14		1427098..1427310, 1427632..1427709, 1427788..1428180, 1428277..1428522	1427098..1427310, 1427632..1427709, 1427788..1428216, 1428277..1428522	Solexa intron data; altered donor for intron 3, improved donor consensus		2007-12-03
 SPCC1442.13c		1791196..1791285, 1791376..1791909	1791346..1791909	Solexa intron data; deleted final exon, improved homology		2007-12-03
-SPCC1494.02		2317988..2318068, 2318200..2318244, 2318398..2318508, 2318579..2318676, 2318903..2318966	2318335..2318508, 2318579..2318676, 2318903..2318966	Solexa intron data; 2 C-terminal exons removed, not supported by homology		2007-12-03
+SPCC1494.02c		2317988..2318068, 2318200..2318244, 2318398..2318508, 2318579..2318676, 2318903..2318966	2318335..2318508, 2318579..2318676, 2318903..2318966	Solexa intron data; 2 C-terminal exons removed, not supported by homology		2007-12-03
 SPAPB1A10.03				Solexa intron data; SPAPB1A10.03 split to create SPAPB1A10.03 and SPAPB1A10.16; new coordinates 1863363..1863381, 1863434..1863762 and 1863972..1864388		2007-12-03
 SPBC11B10.03		1490376..1490423, 1490593..1491747	1490611..1491747	Solexa intron data; removed N-teminal exon, poor donor, did not improve homology		2007-12-03
 SPBC16H5.04		2293393..2293824, 2293938..2294039, 2294087..2294125	2293393..2293775, 2293877..2294039, 2294087..2294125	Solexa intron data; altered intron 2 donor and acceptor, improved homology		2007-12-03
@@ -294,7 +294,7 @@ SPCC1529.01		join(237554..237923, 237975..238080, 238139..238533, 238588..239105
 SPCC1020.11c		757494..757802	join(757365..757424, 757506..757802)	Solexa transcript data		2007-10-12
 SPAC22F8.07c	rtf1			Two in-frame splices added	EMBL:AJ627891	2007-08-28
 SPAC9E9.02				altered to include stop codon	pers. comm. Val Wood	2007-07-19
-SPBC409.12	stn1			N-terminal extended by 2 exons	pers. comm. C. Chahwan	2007-07-06
+SPBC409.12c	stn1			N-terminal extended by 2 exons	pers. comm. C. Chahwan	2007-07-06
 SPAC23C4.04c				altered to include stop codon and trimmed to methionine	pers. comm. Val Wood	2007-06-19
 SPAC29E6.04	nnf1			Sequence frameshifted at 4410192, new coordinates give an N terminal extension from 4410194..4410391 (NOTE: Still needs resequencing and underlying sequence changing)	PMID:17035632	2007-05-16
 SPAC13G7.07				changed second exon 3’ boundary and added C-terminal exons	PMID:17310250	2007-03-23
