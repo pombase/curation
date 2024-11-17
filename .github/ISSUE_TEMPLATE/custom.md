@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: GO-AM Model XXXXX
 about: Describe this issue template's purpose here.
 title: GO-AM Model XXXXX
 labels: ''
