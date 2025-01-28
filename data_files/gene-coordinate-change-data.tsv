@@ -14,7 +14,7 @@ SPAC2F3.04c	rim1	join(3127647..3127813,3127862..3128780)	join(3127689..3127813,3
 SPAC26A3.09c	rga2	complement(3348569..3352396)	complement(3348569..3352258)			2021-11-03
 SPAC1B2.03c	elo2	complement(join(2811438..2812368,2812412..2812485))	complement(join(2811438..2812368,2812412..2812464))	remove MDLTGAH to get /score=2039.31		2021-11-03
 SPAC23C11.17	mdm28	join(2167170..2167245,2167302..2168683)	join(2167206..2167245,2167302..2168683)	remove MKYPRTHIQFPS		2021-10-23
-SPAC4G9.11c	cmb1	complement(2275578..2276249	complement(2275578..2276177)			2021-10-23
+SPAC4G9.11c	cmb1	complement(2275578..2276249)	complement(2275578..2276177)			2021-10-23
 SPAC19A8.06	pbr1	(2475966..2477159)	complement(2475966..2477096)			2021-10-23
 SPAC1002.01	mrx11	join(1798347..1798830,1798960..1799015)	1798347..1798835	remove final exon		2021-06-25
 SPAC1002.12c		complement(1818695..1820338)	1818695..1820191			2021-06-25
@@ -219,7 +219,7 @@ SPBC31F10.12		join(3773353..3773525, 3773581..3773678, 3773795..3773999, 3774059
 SPBC13G1.04c		complement(3732941..3733762)	complement(join(3732806..3732930, 3732994..3733762))	Solexa transread data; added new 3’ intron and exon, improved homology		2008-05-02
 SPBC16D10.02	trm11	join(3588806..3589595, 3589639..3589803, 3589845..3590123, 3590163..3590287)	join(3588806..3589595, 3589639..3589803, 3589845..3590123, 3590163..3590278, 3590327..3590386)	Solexa transread data; added new 3’ intron/exon		2008-05-02
 SPBC2D10.16		join(2996452..2996463, 2996509..2996904)	join(2996452..2996463, 2996509..2996687, 2996738..2996879)	Solexa transread data; added new intron in second exon, which created a new 3rd exon, and identified homology with Cenp-S (was previously sequence orphan)		2008-05-02
-SPBC2D10.15c		complement(join(2995324..2995579, 2995619..2995923, 2995971..2996066))	complement(join(2995324..2995497, 2995534..2995579, 2995619..2995923, 2995971..2996066)); altered first intron, added in-frame intron, improved homology	Solexa transread data		2008-05-02
+SPBC2D10.15c		complement(join(2995324..2995579, 2995619..2995923, 2995971..2996066))	complement(join(2995324..2995497, 2995534..2995579, 2995619..2995923, 2995971..2996066))	Solexa transread data; altered first intron, added in-frame intron, improved homology		2008-05-02
 SPBC2A9.07c		complement(2959078..2959902)	complement(join(2959078..2959129, 2959172..2959902))	Solexa transread data; added in-frame intron, improved homology		2008-05-02
 SPBP4H10.12		join(2895855..2895863, 2896001..2896507)	join(2895855..2895863, 2896001..2896459, 2896516..2896587)	Solexa transread data; added new 3’ intron/exon, improved homology		2008-05-02
 SPBC4.02c		complement(join(2369064..2369160, 2369246..2369416, 2369455..2371243, 2371351..2371451, 2371507..2371583))	complement(join(2369064..2369190, 2369246..2369416, 2369455..2371243, 2371351..2371451, 2371507..2371583))	Solexa transread data; changed accceptor for final intron, improved homology		2008-05-02
@@ -246,8 +246,8 @@ SPAPB2B4.06		join(2722735..2723210, 2723273..2723300, 2723349..2723582)	join(272
 SPAC823.09c		complement(join(2594922..2595693, 2595734..2595819))	complement(join(2594777..2594913, 2594966..2595693, 2595734..2595819))	Solexa transread data; added new 3’ intron/exon		2008-05-02
 SPAC823.04		2587729..2587897, 2588085..2588620	join(2587729..2587897, 2588106..2588620); altered to use valid acceptor	Solexa transread data		2008-05-02
 SPAPB1A10.16		1863972..1864388	join(1863972..1864360, 1864415..1864457); added new 3’ intron/exon	Solexa transread data		2008-05-02
-SPAC17A5.02c	dbr1	complement(join(1754109..1754310, 1754350..1755118, 1755164..1755285, 1755331..1755638))	complement(join(1754033..1754145, 1754186..1754310, 1754350..1755118, 1755164..1755285, 1755331..1755638)); added new 5’intron/exon, now agrees with published date	Solexa transread data		2008-05-02
-SPAC9.06c		complement(join(1473692..1473885, 1473939..1474105, 1474153..1474212, 1474264..1474341, 1474460..1474539))	complement(join(1473692..1473885, 1473939..1474105, 1474153..1474212, 1474264..1474341, 1474381..1474404, 1474460..1474539)); added new exon (2nd) improved homology	Solexa transread data		2008-05-02
+SPAC17A5.02c	dbr1	complement(join(1754109..1754310, 1754350..1755118, 1755164..1755285, 1755331..1755638))	complement(join(1754033..1754145, 1754186..1754310, 1754350..1755118, 1755164..1755285, 1755331..1755638))	Solexa transread data; added new 5’intron/exon, now agrees with published date		2008-05-02
+SPAC9.06c		complement(join(1473692..1473885, 1473939..1474105, 1474153..1474212, 1474264..1474341, 1474460..1474539))	complement(join(1473692..1473885, 1473939..1474105, 1474153..1474212, 1474264..1474341, 1474381..1474404, 1474460..1474539))	Solexa transread data; added new exon (2nd) improved homology		2008-05-02
 SPAPB17E12.08		join(1279573..1279644, 1279820..1279869, 1279953..1280325)	join(1279573..1279779, 1279820..1279869, 1279953..1280325)	Solexa transread data; changed first donor to make n-terminal exon longer, improved homology		2008-05-02
 SPAC56F8.04c	coq2	complement(1133226..1134302)	complement(join(1133226..1134283, 1134332..1134356))	Solexa transread data; added 5’ intron/exon		2008-05-02
 SPAC1A6.03c		complement(1070139..1072013)	complement(join(1070061..1070138, 1070205..1072013))	Solexa transread data; new 3’ intron/exon, improved homology		2008-05-02
